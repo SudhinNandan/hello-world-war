@@ -5,7 +5,7 @@
 <body>
 	<h1>Hello World!!!!!!</h1>
 	<p>
-		It is actually
+		It is 
 		<%= new java.util.Date() %></p>
 	<p>
 		You are coming from 
